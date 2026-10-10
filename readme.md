@@ -1,1 +1,1 @@
-Các bài tập dùng Labtainers đã AC trên trang seclab.ptit.edu.vn
+Các bài tập dùng Labtainer đã AC trên trang seclab.ptit.edu.vn
